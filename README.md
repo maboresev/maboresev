@@ -8,6 +8,6 @@ I'm a backend developer focused on Drupal's backend. I'm working to improve my P
 - 💬 Ask me about Drupal.
 
 ### Social networks profiles
-**Twitter**: [@maboresev](https://twitter.com/maboresev)
-**Linkedin**: [access](https://www.linkedin.com/in/manuel-borrego-reina/)
-**Drupal ORG**: [maboresev](https://www.drupal.org/u/maboresev)
+- **Twitter**: [@maboresev](https://twitter.com/maboresev)
+- **Linkedin**: [access](https://www.linkedin.com/in/manuel-borrego-reina/)
+- **Drupal ORG**: [maboresev](https://www.drupal.org/u/maboresev)
